@@ -8,7 +8,7 @@ i) First order Low Pass Filter (LPF)
 ii) First order High Pass Filter (HPF) 
 iii) Band pass filter
  
-## APPARATUS REQUIRED
+## APPARATUS REQUIRED 
 
 <img width="625" height="170" alt="image" src="https://github.com/user-attachments/assets/900fc8b3-3a8c-4208-bf52-98cc9e281e21" />
 
