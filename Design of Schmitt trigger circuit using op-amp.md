@@ -2,7 +2,7 @@
 # SCHMITT TRIGGER 
 
 ## AIM:
-To design the Schmitt trigger circuit using Op-amp IC 741.
+To design the Schmitt trigger circuit using Op-amp IC 741. 
 
 ## APPARATUS REQUIRED:
 <img width="920" height="241" alt="image" src="https://github.com/user-attachments/assets/caa7bce6-7525-4aef-bc1f-005959271f03" />
