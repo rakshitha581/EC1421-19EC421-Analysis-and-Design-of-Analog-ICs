@@ -14,7 +14,7 @@ LT-Spice
 
 3. Pick and paste the required component from the library and draw the circuit diagram .
 
-4. Complete the connection.
+4. Complete the connection. 
 
 5. Save the file by giving file name.
 
