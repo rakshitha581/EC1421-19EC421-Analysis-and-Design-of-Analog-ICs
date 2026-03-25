@@ -21,8 +21,10 @@ an inverting amplifier and it is given as
 <img width="202" height="70" alt="image" src="https://github.com/user-attachments/assets/3cd34e03-1b28-4e8a-90a6-fe0c096c84cc" />
 
 ## CIRCUIT DIAGRAM: 
+![WhatsApp Image 2026-03-25 at 6 07 32 PM](https://github.com/user-attachments/assets/64bcee62-19a8-47f8-bf04-b7c9be76e880)
 
 ## MODEL GRAPH:
+![WhatsApp Image 2026-03-25 at 6 07 33 PM](https://github.com/user-attachments/assets/7451f537-72b6-40d5-9261-f0768d25263a)
 
 ## PROCEDURE:  
 ## Differential amplifier 
@@ -40,11 +42,14 @@ constant input voltage Vin2 to inverting terminal of op-amp through R2.
 <img width="284" height="156" alt="image" src="https://github.com/user-attachments/assets/48e39114-6231-4be4-9ac3-f0cb8999dc24" />
 
 ## TABULATION:
+![WhatsApp Image 2026-03-25 at 6 07 33 PM (1)](https://github.com/user-attachments/assets/d412bfd8-8b39-4a43-a0e9-f63e3ebd1f8d)
 
 ## CALCULATIONS:
+![WhatsApp Image 2026-03-25 at 6 07 33 PM (2)](https://github.com/user-attachments/assets/4d325a45-b795-461d-b314-b7161913c463)
 
 ## GRAPH:
+![WhatsApp Image 2026-03-25 at 6 07 33 PM (3)](https://github.com/user-attachments/assets/2e23a0a4-c344-4e2d-a923-0248fc06104d)
 
  ## RESULTS:
- Thus the Inverting, Non-Inverting and Differential Amplifiers are designed and their 
+ Thus the Differential Amplifiers are designed and their 
 performance was successfully tested using op-amp IC 741.
