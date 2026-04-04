@@ -34,6 +34,7 @@ When Vo= - Vsat, the voltage across R1 is referred to as lower threshold voltage
 
 ## GRAPH:
 ![WhatsApp Image 2026-04-01 at 2 12 55 PM](https://github.com/user-attachments/assets/6624a0ea-8023-4b7e-ae05-660575ab16fc)
+<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/8554f76c-db5b-42d8-95c2-31900c71d2f9" />
 
 ## RESULT:
 Thus a Schmitt trigger is designed and tested using op-amp IC 741.
