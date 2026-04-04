@@ -11,6 +11,7 @@ c. Active band pass filter
 ## SOFTWARE REQUIRED:
 LT-Spice
 
+
 ## PROCEDURE:
 1. Double click on LT-Spice icon.
 2. New schematic window open.
